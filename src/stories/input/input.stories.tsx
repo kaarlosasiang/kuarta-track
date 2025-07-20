@@ -2,7 +2,7 @@ import React from "react";
 import Input from "./input";
 
 const meta = {
-  title: "Input",
+  title: "Core/Input",
   component: Input,
   argTypes: {
     type: {
